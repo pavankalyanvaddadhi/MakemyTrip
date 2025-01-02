@@ -14,7 +14,7 @@ import Forexcard from './Pages/Forexcard/Forexcard'
 const App = () => {
   return (
     <Router>
-      <Header />
+      <Header/>
 
       <Routes>
         <Route path="/Flights" element={<Flights />} />

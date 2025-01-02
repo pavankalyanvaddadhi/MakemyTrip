@@ -99,7 +99,7 @@ const handleForex = () => {
         </div>
       </div>
       <div
-        className="container d-flex flex-row mt-5 bg-white justify-content-evenly py-3 "
+        className="container d-flex flex-row mt-5 bg-white justify-content-evenly py-3" 
         style={{borderRadius: '10px', width: '60%'}}>
         <div onClick={handleFlight}>
           <div style={{display: 'flex', justifyContent: 'center'}}>

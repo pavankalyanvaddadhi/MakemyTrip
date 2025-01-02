@@ -4,7 +4,7 @@ const FlightSearchdata = [
   {
     iata: 'BPM',
     icon: 'https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/ic-flight-onward.png',
-    label: 'Hyderabad',
+    Cityname: 'Hyderabad',
     airportName: 'Hyderabad Begumpet Airport',
     country: 'India',
     countryCode: 'IN',
@@ -13,7 +13,7 @@ const FlightSearchdata = [
   {
     iata: 'IXX',
     icon: 'https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/ic-flight-onward.png',
-    label: 'Bidar',
+    Cityname: 'Bidar',
     airportName: 'Bidar Airport',
     distanceInfoText: '113 km from Hyderabad',
     country: 'India',
@@ -23,7 +23,7 @@ const FlightSearchdata = [
   {
     iata: 'KJB',
     icon: 'https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/ic-flight-onward.png',
-    label: 'Kurnool',
+    Cityname: 'Kurnool',
     airportName: 'Kurnool Airport',
     distanceInfoText: '196 km from Hyderabad',
     country: 'India',
@@ -34,7 +34,7 @@ const FlightSearchdata = [
   {
     iata: 'HYG',
     icon: 'https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/ic-flight-onward.png',
-    label: 'Hydaburg',
+    Cityname: 'Hydaburg',
     airportName: 'SPB-AK',
     country: 'United States',
     countryCode: 'US',
@@ -43,7 +43,7 @@ const FlightSearchdata = [
   {
     iata: 'VGA',
     icon: 'https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/ic-flight-onward.png',
-    label: 'Vijayawada',
+    Cityname: 'Vijayawada',
     airportName: 'Vijayawada Airport',
     country: 'India',
     countryCode: 'IN',
@@ -52,7 +52,7 @@ const FlightSearchdata = [
   {
     iata: 'NDC',
     icon: 'https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/ic-flight-onward.png',
-    label: 'Nanded',
+    Cityname: 'Nanded',
     airportName: 'Shri Guru Gobind Singh Ji Airport',
     country: 'India',
     countryCode: 'IN',
@@ -61,7 +61,7 @@ const FlightSearchdata = [
   {
     iata: 'HYA',
     icon: 'https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/ic-flight-onward.png',
-    label: 'Hyannis',
+    Cityname: 'Hyannis',
     airportName: 'Barnstable-MA',
     country: 'United States',
     countryCode: 'US',
@@ -70,7 +70,7 @@ const FlightSearchdata = [
   {
     iata: 'HYS',
     icon: 'https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/ic-flight-onward.png',
-    label: 'Hays',
+    Cityname: 'Hays',
     airportName: 'Hays-KS',
     country: 'United States',
     countryCode: 'US',
@@ -79,7 +79,7 @@ const FlightSearchdata = [
   {
     iata: 'HKT',
     icon: 'https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/ic-flight-onward.png',
-    label: 'Phuket',
+    Cityname: 'Phuket',
     airportName: 'Phuket',
     country: 'Thailand',
     countryCode: 'TH',
@@ -88,7 +88,7 @@ const FlightSearchdata = [
   {
     iata: 'HER',
     icon: 'https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/ic-flight-onward.png',
-    label: 'Heraklion',
+    Cityname: 'Heraklion',
     airportName: 'N. Kazantzakis Apt.',
     country: 'Greece',
     countryCode: 'GR',
@@ -97,7 +97,7 @@ const FlightSearchdata = [
   {
     iata: 'HRG',
     icon: 'https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/ic-flight-onward.png',
-    label: 'Hurghada',
+    Cityname: 'Hurghada',
     airportName: 'Hurghada',
     country: 'Egypt',
     countryCode: 'EG',
@@ -106,7 +106,7 @@ const FlightSearchdata = [
   {
     iata: 'HUZ',
     icon: 'https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/ic-flight-onward.png',
-    label: 'Huizhou',
+    Cityname: 'Huizhou',
     airportName: 'Huizhou',
     country: 'China',
     countryCode: 'CN',
@@ -115,7 +115,7 @@ const FlightSearchdata = [
   {
     iata: 'HUX',
     icon: 'https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/ic-flight-onward.png',
-    label: 'Huatulco',
+    Cityname: 'Huatulco',
     airportName: 'Huatulco',
     country: 'Mexico',
     countryCode: 'MX',
@@ -124,7 +124,7 @@ const FlightSearchdata = [
   {
     iata: 'HTN',
     icon: 'https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/ic-flight-onward.png',
-    label: 'Hotan',
+    Cityname: 'Hotan',
     airportName: 'Hotan',
     country: 'China',
     countryCode: 'CN',
@@ -133,7 +133,7 @@ const FlightSearchdata = [
   {
     iata: 'HLZ',
     icon: 'https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/ic-flight-onward.png',
-    label: 'Hamilton',
+    Cityname: 'Hamilton',
     airportName: 'Hamilton',
     country: 'New Zealand',
     countryCode: 'NZ',
@@ -142,7 +142,7 @@ const FlightSearchdata = [
   {
     iata: 'HYN',
     icon: 'https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/ic-flight-onward.png',
-    label: 'Huangyan',
+    Cityname: 'Huangyan',
     airportName: 'Huangyan',
     country: 'China',
     countryCode: 'CN',
