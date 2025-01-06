@@ -63,6 +63,7 @@
     "@mui/icons-material": "^6.2.1",
     "@mui/material": "^6.2.1",
     "@mui/x-date-pickers": "^7.23.3",
+    "axios": "^1.7.9",
     "bootstrap": "^5.3.3",
     "dayjs": "^1.11.13",
     "react-dom": "^18.3.1",

@@ -46,7 +46,7 @@ const handleForex = () => {
 
   return (
     <>
-      <div className="container " style={{display: 'flex', paddingTop: '10px'}}>
+      <div className="container  " style={{display: 'flex', paddingTop: '10px'}}>
         <div style={{width: '18%'}}>
           <img
             src={
