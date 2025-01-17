@@ -71,7 +71,7 @@ module.exports = (env, argv) => ({
       http://bit.ly/2KjYRSI
       The output directory as an absolute path.
     */
-    path: path.resolve(__dirname, 'dist'),
+    path: path.resolve(__dirname, 'public'),
 
     /*
       http://bit.ly/2Kmdcy1
